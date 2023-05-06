@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="300"/>
 </div>
 
 Hey there! Welcome to my Github repository! I'm a Software Engineer with a passion for building awesome web and mobile applications that not only look great but also work seamlessly. With over 2 years of experience in the field, I have a deep understanding of math and data structures, which enables me to solve complex problems with ease.
