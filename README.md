@@ -24,7 +24,7 @@ The GIF above gives you a sneak peek into the app's user interface and features.
 
 I'm excited to share this project with you and invite you to check out the codebase on GitHub. If you have any questions or suggestions, don't hesitate to reach out. Thank you for your interest!
 
-If you want to learn more about my work, check out my [LinkedIn profile](https://www.linkedin.com/in/natalia-grigoryeva/). I'm always open to new opportunities and collaborations, so feel free to reach out!
+** 💬 If you want to learn more about my work, check out my [LinkedIn profile](https://www.linkedin.com/in/natalia-grigoryeva/). I'm always open to new opportunities and collaborations, so feel free to reach out!**
 
 
 <!--
