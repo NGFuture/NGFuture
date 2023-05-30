@@ -18,7 +18,7 @@ You can find the UpUp mobile app on [GitHub](https://github.com/NGFuture/UpUp). 
 
 ## GIF Preview
 
-![UpUp Mobile App](https://github.com/NGFuture/UpUp/assets/UpUp-gif_sm.gif)
+![UpUp Mobile App](https://raw.githubusercontent.com/NGFuture/UpUp/main/assets/UpUp-gif_sm.gif)
 
 The GIF above gives you a sneak peek into the app's user interface and features. You can see the app in action and get a feel for its interactive quizzes.
 
