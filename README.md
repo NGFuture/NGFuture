@@ -16,9 +16,9 @@ My latest project is the UpUp mobile app. It's a React Native app designed to pr
 
 You can find the UpUp mobile app on [GitHub](https://github.com/NGFuture/UpUp). Feel free to explore the repository, contribute to the development, or provide feedback.
 
-## GIF Preview
-
-![UpUp Mobile App](https://raw.githubusercontent.com/NGFuture/UpUp/main/assets/UpUp-gif_sm.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NGFuture/UpUp/main/assets/UpUp-gif_sm.gif" alt="UpUp Mobile App">
+</p>
 
 The GIF above gives you a sneak peek into the app's user interface and features. You can see the app in action and get a feel for its interactive quizzes.
 
