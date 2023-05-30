@@ -10,6 +10,20 @@ In addition to development, I also love UI/UX design, and I'm skilled in using F
 
 When I'm not coding, you can find me hiking, enjoying ocean views, or spending time with my family and friends.
 
+## Latest Project: UpUp Mobile App
+
+My latest project is the UpUp mobile app. It's a React Native app designed to provide users with a fun and interactive quiz experience. The app is built using modern technologies and showcases my expertise in mobile app development.
+
+You can find the UpUp mobile app on [GitHub](https://github.com/NGFuture/UpUp). Feel free to explore the repository, contribute to the development, or provide feedback.
+
+## GIF Preview
+
+![UpUp Mobile App](https://github.com/NGFuture/UpUp/assets/UpUp-gif_sm.gif)
+
+The GIF above gives you a sneak peek into the app's user interface and features. You can see the app in action and get a feel for its interactive quizzes.
+
+I'm excited to share this project with you and invite you to check out the codebase on GitHub. If you have any questions or suggestions, don't hesitate to reach out. Thank you for your interest!
+
 If you want to learn more about my work, check out my [LinkedIn profile](https://www.linkedin.com/in/natalia-grigoryeva/). I'm always open to new opportunities and collaborations, so feel free to reach out!
 
 
