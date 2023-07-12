@@ -29,7 +29,7 @@ I'm excited to share this project with you and invite you to check out the codeb
 You can find the AI playground on [GitHub](https://github.com/NGFuture/2023_ai_expl).
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NGFuture/2023_ai_expl/public/images/20230712-AI-expl-image.jpg" alt="UpUp Mobile App">
+  <img src="https://raw.githubusercontent.com/NGFuture/2023_ai_expl/public/images/20230712-AI-expl-image.jpg" alt="AI playground App">
 </p>
 
 ** 💬 If you want to learn more about my work, check out my [LinkedIn profile](https://www.linkedin.com/in/natalia-grigoryeva/). I'm always open to new opportunities and collaborations, so feel free to reach out!**
