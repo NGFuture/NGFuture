@@ -24,7 +24,7 @@ The GIF above gives you a sneak peek into the app's user interface and features.
 
 I'm excited to share this project with you and invite you to check out the codebase on GitHub. If you have any questions or suggestions, don't hesitate to reach out. Thank you for your interest!
 
-## AI playground
+## AI Playground Web App
 
 You can find the AI playground on [GitHub](https://github.com/NGFuture/2023_ai_expl).
 
